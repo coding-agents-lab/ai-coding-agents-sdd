@@ -1,9 +1,9 @@
 site_name: Spec-Driven Development
 site_description: Guía en español sobre Spec-Driven Development con AI coding agents
 site_author: jmlopezdona
-site_url: https://jmlopezdona.github.io/ai-coding-agents-sdd/
-repo_url: https://github.com/jmlopezdona/ai-coding-agents-sdd
-repo_name: jmlopezdona/ai-coding-agents-sdd
+site_url: https://coding-agents-lab.github.io/ai-coding-agents-sdd/
+repo_url: https://github.com/coding-agents-lab/ai-coding-agents-sdd
+repo_name: coding-agents-lab/ai-coding-agents-sdd
 edit_uri: edit/main/docs/
 
 theme:
@@ -139,4 +139,4 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/jmlopezdona/ai-coding-agents-sdd
+      link: https://github.com/coding-agents-lab/ai-coding-agents-sdd

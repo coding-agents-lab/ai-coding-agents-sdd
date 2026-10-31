@@ -6,13 +6,13 @@ A guide, in 13 chapters, on how technical teams can adopt **Spec-Driven Developm
 
 This is the second course in a trilogy:
 
-1. **[Fundamentals](https://github.com/jmlopezdona/ai-coding-agents-fundamentals)** — what an agent is and how to use it.
+1. **[Fundamentals](https://github.com/coding-agents-lab/ai-coding-agents-fundamentals)** — what an agent is and how to use it.
 2. **Spec-Driven Development** *(this guide)* — how to structure work so the agent can execute it reliably.
-3. **[Harness Engineering](https://github.com/jmlopezdona/ai-coding-agents-harness)** — how to engineer the system around the agent at scale.
+3. **[Harness Engineering](https://github.com/coding-agents-lab/ai-coding-agents-harness)** — how to engineer the system around the agent at scale.
 
 ## 📖 Read the web version
 
-**[https://jmlopezdona.github.io/ai-coding-agents-sdd/](https://jmlopezdona.github.io/ai-coding-agents-sdd/)**
+**[https://coding-agents-lab.github.io/ai-coding-agents-sdd/](https://coding-agents-lab.github.io/ai-coding-agents-sdd/)**
 
 Available in English and Spanish, built with MkDocs Material.
 
